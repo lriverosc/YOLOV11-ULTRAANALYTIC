@@ -1,0 +1,9 @@
+path: C:/Users/lrive/OneDrive/Desktop/Workspace/YOLOV11 - ULTRAANALYTIC/MAIN YOLO
+train: images/train
+val: images/val
+names:
+  0: vehiculo_menor
+  1: buses_urbanos
+  2: motos
+  3: peatones
+  4: vehiculos_pesados

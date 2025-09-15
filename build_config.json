@@ -1,0 +1,25 @@
+{
+  "frame_every_sec": 0.5,
+  "val_split": 0.2,
+  "pseudo_model": "yolov8n.pt",
+  "classes": [
+    "person",
+    "car",
+    "bus",
+    "truck",
+    "motorcycle",
+    "car_parked",
+    "bus_parked",
+    "truck_parked",
+    "motorcycle_parked"
+  ],
+  "pseudo_conf": 0.25,
+  "train_model": "yolov8n.pt",
+  "imgsz": 640,
+  "epochs": 20,
+  "batch": 8,
+  "workers": 2,
+  "patience": 5,
+  "parked_seconds": 30.0,
+  "move_thresh_frac": 0.01
+}

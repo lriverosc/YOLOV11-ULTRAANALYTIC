@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.venv/
+venv/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Entornos virtuales
+.env
+*.env
+
+# YOLO / Modelos grandes
+*.pt
+*.onnx
+*.engine
+*.pb
+runs/
+
+# Archivos grandes de datasets
+*.zip
+*.tar
+*.rar
+*.7z
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+*.jpeg
+
+# Windows
+Thumbs.db
+Desktop.ini
