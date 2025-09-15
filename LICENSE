@@ -1,12 +1,5 @@
 
----
-
-## 4) Sube estos cambios al repo
-
-En **PowerShell** (estando en la carpeta del proyecto):
-
-```powershell
-cd "C:\Users\lrive\OneDrive\Desktop\Workspace\YOLOV11 - ULTRAANALYTIC\MAIN YOLO"
+---YOLOV11 - ULTRAANALYTIC\MAIN YOLO"
 
 git pull origin main         # por si hay algo en remoto
 git add .gitignore requirements.txt README.md
